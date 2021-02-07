@@ -1,3 +1,4 @@
+# Server Call Command
 A command that allows 2 users from different servers to communicate using the bot.
 # Requirements to run the script
 · Python 3 Installed </br >
